@@ -1,0 +1,36 @@
+-- milestone 0.3.1 --
+-- milestone 0.3.2 --
+
+added code highlight 0.5d
+gist online 3d
+    gist service
+    save data online
+    load data online
+    init with data online
+page manager 1d
+    manage-button/sort/multi-select
+-- milestone 0.3.3 --
+
+plugins 1d
+    picture viewer 1d
+    pagenav 1d
+    draw sth. 1d
+mobile player 3d
+guideline 2d
+    notifications 1d
+-- milestone 0.3.4 --
+
+documantation 1d
+h5slides-packages ide 3d
+    type: map 1d
+    parser web service
+    type: video rebuild 1d
+rich text editor 2d
+toolbar 1d
+build config 1d
+    types (js helper/css/editor html)
+create new item
+text animations when playing
+undo system 3d
+
+total: 4.5d / 9d / ...
